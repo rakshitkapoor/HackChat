@@ -39,43 +39,43 @@
 32-->[androidx.core:core:1.12.0] C:\Users\raksh\.gradle\caches\transforms-3\eb1a94337be796d61a339f8064ce5da4\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
 33
 34    <application
-34-->C:\android\repository\app\src\main\AndroidManifest.xml:19:5-38:19
+34-->C:\Users\raksh\AndroidStudioProjects\HackChat\app\src\main\AndroidManifest.xml:19:5-38:19
 35        android:allowBackup="true"
-35-->C:\android\repository\app\src\main\AndroidManifest.xml:20:9-35
+35-->C:\Users\raksh\AndroidStudioProjects\HackChat\app\src\main\AndroidManifest.xml:20:9-35
 36        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 36-->[androidx.core:core:1.12.0] C:\Users\raksh\.gradle\caches\transforms-3\eb1a94337be796d61a339f8064ce5da4\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
 37        android:dataExtractionRules="@xml/data_extraction_rules"
-37-->C:\android\repository\app\src\main\AndroidManifest.xml:21:9-65
+37-->C:\Users\raksh\AndroidStudioProjects\HackChat\app\src\main\AndroidManifest.xml:21:9-65
 38        android:debuggable="true"
 39        android:extractNativeLibs="false"
 40        android:fullBackupContent="@xml/backup_rules"
-40-->C:\android\repository\app\src\main\AndroidManifest.xml:22:9-54
+40-->C:\Users\raksh\AndroidStudioProjects\HackChat\app\src\main\AndroidManifest.xml:22:9-54
 41        android:icon="@mipmap/ic_launcher"
-41-->C:\android\repository\app\src\main\AndroidManifest.xml:23:9-43
+41-->C:\Users\raksh\AndroidStudioProjects\HackChat\app\src\main\AndroidManifest.xml:23:9-43
 42        android:label="@string/app_name"
-42-->C:\android\repository\app\src\main\AndroidManifest.xml:24:9-41
+42-->C:\Users\raksh\AndroidStudioProjects\HackChat\app\src\main\AndroidManifest.xml:24:9-41
 43        android:roundIcon="@mipmap/ic_launcher_round"
-43-->C:\android\repository\app\src\main\AndroidManifest.xml:25:9-54
+43-->C:\Users\raksh\AndroidStudioProjects\HackChat\app\src\main\AndroidManifest.xml:25:9-54
 44        android:supportsRtl="true"
-44-->C:\android\repository\app\src\main\AndroidManifest.xml:26:9-35
+44-->C:\Users\raksh\AndroidStudioProjects\HackChat\app\src\main\AndroidManifest.xml:26:9-35
 45        android:testOnly="true" >
 46        <activity
-46-->C:\android\repository\app\src\main\AndroidManifest.xml:28:9-37:20
+46-->C:\Users\raksh\AndroidStudioProjects\HackChat\app\src\main\AndroidManifest.xml:28:9-37:20
 47            android:name="com.google.ai.sample.MainActivity"
-47-->C:\android\repository\app\src\main\AndroidManifest.xml:29:13-41
+47-->C:\Users\raksh\AndroidStudioProjects\HackChat\app\src\main\AndroidManifest.xml:29:13-41
 48            android:exported="true"
-48-->C:\android\repository\app\src\main\AndroidManifest.xml:30:13-36
+48-->C:\Users\raksh\AndroidStudioProjects\HackChat\app\src\main\AndroidManifest.xml:30:13-36
 49            android:label="@string/app_name" >
-49-->C:\android\repository\app\src\main\AndroidManifest.xml:31:13-45
+49-->C:\Users\raksh\AndroidStudioProjects\HackChat\app\src\main\AndroidManifest.xml:31:13-45
 50            <intent-filter>
-50-->C:\android\repository\app\src\main\AndroidManifest.xml:32:13-36:29
+50-->C:\Users\raksh\AndroidStudioProjects\HackChat\app\src\main\AndroidManifest.xml:32:13-36:29
 51                <action android:name="android.intent.action.MAIN" />
-51-->C:\android\repository\app\src\main\AndroidManifest.xml:33:17-69
-51-->C:\android\repository\app\src\main\AndroidManifest.xml:33:25-66
+51-->C:\Users\raksh\AndroidStudioProjects\HackChat\app\src\main\AndroidManifest.xml:33:17-69
+51-->C:\Users\raksh\AndroidStudioProjects\HackChat\app\src\main\AndroidManifest.xml:33:25-66
 52
 53                <category android:name="android.intent.category.LAUNCHER" />
-53-->C:\android\repository\app\src\main\AndroidManifest.xml:35:17-77
-53-->C:\android\repository\app\src\main\AndroidManifest.xml:35:27-74
+53-->C:\Users\raksh\AndroidStudioProjects\HackChat\app\src\main\AndroidManifest.xml:35:17-77
+53-->C:\Users\raksh\AndroidStudioProjects\HackChat\app\src\main\AndroidManifest.xml:35:27-74
 54            </intent-filter>
 55        </activity>
 56        <activity
